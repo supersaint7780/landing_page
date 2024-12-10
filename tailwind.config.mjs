@@ -10,12 +10,14 @@ export default {
 		"2xl": "1536px",
 	  },
 	  colors: {
+		green: "rgb(149, 200, 62)",
 		primary: "#B9FF66",
 		black: "#000000",
 		white: "#FFFFFF",
 		gray: "#0D0C22",
 		stone: "#231F20",
 		lime: "#B9FF66",
+		blue: "#1057ac",
 		zinc: {
 		  100: "#F3F3F3",
 		  200: "#F0F0F0",

@@ -10,7 +10,7 @@ const menuitems = [
   { href: '/articles', label: 'Blog'},
 ];
 
-const navButton = { href: 'https://github.com/manulthanura/Positivus', label: 'Request a quote' };
+const navButton = { href: 'https://wa.link/kdkaw1', label: 'Request a quote' };
 ---
 
 <div class="mt-20">
@@ -20,7 +20,7 @@ const navButton = { href: 'https://github.com/manulthanura/Positivus', label: 'R
     <Astronav>
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="/Logo.svg" class="h-8" alt="Logo" />
+          <img src="/Logo.png" width="250px" alt="Logo" />
         </a>
         <div class="block lg:hidden">
           <MenuIcon class="w-8 h-8 text-black" />
@@ -34,7 +34,7 @@ const navButton = { href: 'https://github.com/manulthanura/Positivus', label: 'R
             </li>
           ))}
           <div class="lg:hidden flex items-center justify-center mt-3 gap-4">
-              <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-black text-black hover:text-white inline-flex" href={navButton.href} target="_blank"><h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
+              <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-blue hover:bg-black text-white hover:text-white inline-flex" href={navButton.href} target="_blank"><h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
               </a>
           </div>
         </ul>
@@ -42,7 +42,7 @@ const navButton = { href: 'https://github.com/manulthanura/Positivus', label: 'R
     </Astronav>
     <div>
       <div class="hidden lg:flex items-center gap-4">
-        <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-white hover:bg-black text-black hover:text-white inline-flex" href={navButton.href} target="_blank"><h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
+        <a class="px-9 py-5 rounded-2xl border border-zinc-900 bg-blue hover:bg-black text-white hover:text-white inline-flex" href={navButton.href} target="_blank"><h2 class="text-center text-xl font-normal leading-7">{navButton.label}</h2>
         </a>
       </div>
     </div>
