@@ -6,7 +6,7 @@
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/01.svg"
+        "image": "./services/01.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
-        "image": "./services/02.svg"
+        "image": "./services/02.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
-        "image": "./services/03.svg"
+        "image": "./services/03.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/04.svg"
+        "image": "./services/04.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/05.svg"
+        "image": "./services/05.png"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
-        "image": "./services/06.svg"
+        "image": "./services/06.png"
     }
 ]
