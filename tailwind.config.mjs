@@ -11,13 +11,13 @@ export default {
 	  },
 	  colors: {
 		green: "rgb(149, 200, 62)",
-		primary: "#1057ac",
+		primary: "#C6F4F5",
 		black: "#000000",
 		white: "#FFFFFF",
 		gray: "#0D0C22",
 		stone: "#231F20",
 		lime: "#1057ac",
-		blue: "#1057ac",
+		blue: "#C6F4F5",
 		zinc: {
 		  100: "#F3F3F3",
 		  200: "#F0F0F0",
