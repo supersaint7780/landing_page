@@ -12,7 +12,7 @@
         "id": 2,
         "name1": "Ayurvedic",
         "name2": "Medicine",
-        "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "background": "h-[310px] p-12 bg-services rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
         "image": "./services/02.png"
@@ -21,7 +21,7 @@
         "id": 3,
         "name1": "Generic",
         "name2": "Medicine",
-        "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "background": "h-[310px] p-12 bg-services rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
         "image": "./services/03.png"
@@ -48,7 +48,7 @@
         "id": 6,
         "name1": "Third Party",
         "name2": "Manufacturers",
-        "background": "h-[310px] p-12 bg-blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "background": "h-[310px] p-12 bg-services rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
         "image": "./services/06.png"
